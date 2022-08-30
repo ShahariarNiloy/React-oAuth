@@ -1,5 +1,6 @@
 const express = require("express");
 const cookieSession = require("cookie-session");
+const session = require("express-session");
 const passport = require("passport");
 const passportConfig = require("./passport/passportConfig");
 const authRoutes = require("./routes/authRoutes");
