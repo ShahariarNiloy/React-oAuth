@@ -1,1 +1,1 @@
-# React-oAuth ( google & github )
+# React-oAuth 
